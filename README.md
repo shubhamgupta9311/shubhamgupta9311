@@ -15,13 +15,8 @@ Hi, I'm Shubham Gupta 👋  <br>A 2nd-year B.Tech student at Jamia Millia Islami
 ![](https://nirzak-streak-stats.vercel.app/?user=shubhamgupta9311&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgupta9311&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhamgupta9311&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📈 GitHub Activity Graph
 ![Shubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamgupta9311&theme=tokyo-night)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 🐍 Contribution Snake
-![Snake animation](https://github.com/shubhamgupta9311/shubhamgupta9311/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
