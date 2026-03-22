@@ -5,6 +5,7 @@ Hi, I'm Shubham Gupta 👋  <br>A 2nd-year B.Tech student at Jamia Millia Islami
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-gupta-0309bb20a) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/shubham_9311/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/shubhamgupta0746)
 
 
 # 💻 Tech Stack:
