@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shubham Gupta 👋  <br>A 2nd-year B.Tech student at Jamia Millia Islamia with a passion for Software Development.  <br><br>🚀 Currently focused on:<br>- Full Stack Web Development  <br>- Data Structures & Algorithms using Java  <br><br>💡 I love solving problems, building projects, and improving my coding skills every day.
+Hi, I'm Shubham Gupta 👋  <br>A 3rd-year B.Tech student at Jamia Millia Islamia with a passion for Software Development.  <br><br>🚀 Currently focused on:<br>- Full Stack Web Development  <br>- Data Structures & Algorithms using Java  <br><br>💡 I love solving problems, building projects, and improving my coding skills every day.
 
 
 ## 🌐 Socials:
